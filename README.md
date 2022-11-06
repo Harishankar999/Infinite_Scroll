@@ -1,3 +1,10 @@
+# Infinte Scroll
+![This is an image](https://github.com/Harishankar999/Infinite_Scroll/blob/master/GIF-221106_112045.gif?raw=true)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
